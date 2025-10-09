@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "filename" : "QrCode2.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "QrCode.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
