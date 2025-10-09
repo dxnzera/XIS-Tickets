@@ -139,5 +139,5 @@ This project is licensed under the **MIT License**.
 
 ### ✨ Autor | Author
 **Daniel Mendes**  
-📧 contato: [seu-email@exemplo.com]  
+📧 contato: dxnzera@gmail.com
 📍 Brasil | Brazil  
