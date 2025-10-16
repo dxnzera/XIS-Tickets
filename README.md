@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Sobre o Projeto | About the Project
+## Sobre o Projeto | About the Project
 
 **XISTickets** é um aplicativo moderno e intuitivo que permite visualizar, armazenar e gerenciar ingressos digitais de eventos de forma simples e segura.
 Desenvolvido **100% em SwiftUI**, o app prioriza uma experiência fluida, com design limpo e integração com temas claros e escuros.
@@ -17,7 +17,7 @@ Built entirely with **SwiftUI**, it provides a smooth experience with a clean de
 
 ---
 
-## 🖥️ Tecnologias | Technologies
+## Tecnologias | Technologies
 
 * **SwiftUI** – Interface declarativa moderna da Apple
 * **Combine** – Reatividade e gerenciamento de estado
@@ -27,34 +27,34 @@ Built entirely with **SwiftUI**, it provides a smooth experience with a clean de
 
 ---
 
-## 📱 Funcionalidades | Features
+## Funcionalidades | Features
 
-### 🎫 Tela de Ingressos (TicketsView)
+### Tela de Ingressos (TicketsView)
 
 * Lista de ingressos comprados
 * Informações: nome do evento, data da compra, tipo de ingresso e local
 * Exibição do **QR Code** do ingresso em um modal
 * Design moderno com **SwiftUI Cards**
 
-### 👤 Perfil (ProfileView)
+### Perfil (ProfileView)
 
 * Gerenciamento de idioma (Português / English)
 * Personalização de tema (modo claro/escuro)
 * Atualização de informações do usuário e foto de perfil
 
-### 🏠 HomeView
+### HomeView
 
 * Acesso rápido aos principais recursos do app
 * Destaques de eventos e promoções
 
-### 🔐 LoginView
+### LoginView
 
 * Autenticação simples e segura
 * Interface minimalista com transições suaves
 
 ---
 
-## 🌗 Suporte a Tema | Theme Support
+## Suporte a Tema | Theme Support
 
 O app se adapta automaticamente ao modo **claro** e **escuro**, utilizando o `@EnvironmentObject var theme` para manter a consistência visual.
 
@@ -62,7 +62,7 @@ The app automatically adapts to **light** and **dark** modes using a global `The
 
 ---
 
-## 📦 Estrutura do Projeto | Project Structure
+## Estrutura do Projeto | Project Structure
 
 ```
 XIS Tickets/
@@ -86,16 +86,16 @@ XIS Tickets/
 
 ---
 
-## ⚙️ Como Executar | How to Run
+## Como Executar | How to Run
 
-### 📋 Pré-requisitos | Requirements
+### Pré-requisitos | Requirements
 
 * **macOS 13.0+**
 * **Xcode 15+**
 * **iOS 16.0+ (mínimo)**
 * **Swift 5.9+**
 
-### ▶️ Passos | Steps
+### Passos | Steps
 
 1. Clone o repositório:
 
@@ -112,7 +112,7 @@ XIS Tickets/
 
 ---
 
-## 🖼️ Adicionando QR Codes | Adding QR Codes
+## Adicionando QR Codes | Adding QR Codes
 
 1. Abra **Assets.xcassets** no Xcode
 2. Clique com o botão direito → **New Image Set**
@@ -121,7 +121,7 @@ XIS Tickets/
 
 ---
 
-## 🧠 Conceitos-Chave | Key Concepts
+## Conceitos-Chave | Key Concepts
 
 * **Data-driven UI:** cada tela é atualizada automaticamente quando os dados mudam
 * **Reusable Components:** todas as views são modulares e reusáveis
@@ -129,14 +129,14 @@ XIS Tickets/
 
 ---
 
-## 🧑‍🎨 Design
+## Design
 
 O visual do app foi inspirado em uma identidade moderna, com o **X verde** representando inovação e acessibilidade.
 Paleta baseada em tons de **verde neon** e **cinza escuro**, garantindo contraste e legibilidade.
 
 ---
 
-## 🏁 Próximas Etapas | Next Steps
+## Próximas Etapas | Next Steps
 
 * Integração com API de eventos
 * Pagamento in-app via Apple Pay
@@ -144,14 +144,14 @@ Paleta baseada em tons de **verde neon** e **cinza escuro**, garantindo contrast
 
 ---
 
-## 📄 Licença | License
+## Licença | License
 
 Este projeto é distribuído sob a licença **MIT**.
 This project is licensed under the **MIT License**.
 
 ---
 
-### ✨ Autor | Author
+### Autor | Author
 
 **Daniel Mendes**
 📧 contato: [dxnzera@gmail.com](mailto:dxnzera@gmail.com)
